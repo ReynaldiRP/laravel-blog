@@ -1,15 +1,3 @@
-# Informasi Pribadi
-
-1. **Nama** : Reynaldi Rizky Pribadi
-2. **No WA** : 081249746464
-3. **Email** : rizkypratama471@gmail.com
-4. **NIM** : 20410100009
-5. **Asal Univ** : Universitas Dinamika Surabaya
-6. **Asal Kota** : Sidoarjo
-7. **Asal Univ** : Universitas Dinamika Surabaya
-8. **Alamat Tinggal di malang** : Jalan Perumahan Joyo Grand Blok AA Nomor 23
-9. **Harapan Magang** : Bisa belajar banyak hal terutama dalam hal yang mengenai Fullstack Wed Developer dan berusaha berkontribusi semaksimal mungkin pada saat kegiatan magang di **PT Arkatama Multi Solusi Indo**
-
 # System Requierment
 
 -   Framework = Laravel 9
